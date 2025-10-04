@@ -1,7 +1,7 @@
 # LanSE: Language-Grounded Sparse Encoders
 
 <div align="center">
-  <a href="./LanSE.pdf">
+  <a href="[./LanSE.pdf](https://arxiv.org/abs/2508.18236)">
     <img src="./LanSE.png" alt="LanSE Paper" width="600">
   </a>
   
