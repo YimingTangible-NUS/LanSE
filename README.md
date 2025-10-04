@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://arxiv.org/abs/2508.18236">
-    <img src="./LanSE.png" alt="LanSE Paper" width="900">
+    <img src="./LanSE.png" alt="LanSE Paper" width="1200">
   </a>
 </div>
 
