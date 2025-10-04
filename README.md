@@ -2,10 +2,8 @@
 
 <div align="center">
   <a href="https://arxiv.org/abs/2508.18236">
-    <img src="./LanSE.png" alt="LanSE Paper" width="600">
+    <img src="./LanSE.png" alt="LanSE Paper" width="900">
   </a>
-  
-  **Click image to download full paper**
 </div>
 
 [![arXiv](https://img.shields.io/badge/arXiv-2508.18236-b31b1b.svg)](https://arxiv.org/pdf/2508.18236)
