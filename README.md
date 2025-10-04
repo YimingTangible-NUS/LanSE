@@ -1,8 +1,19 @@
 # LanSE: Language-Grounded Sparse Encoders
 
+<div align="center">
+
+[![arXiv](https://img.shields.io/badge/arXiv-2508.18236-b31b1b.svg)](https://arxiv.org/pdf/2508.18236)
+[![PDF](https://img.shields.io/badge/PDF-Download-red)](./LanSE.pdf)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+**[📄 Download Full Paper (PDF)](./LanSE.pdf)**
+
+</div>
+
 [![arXiv](https://img.shields.io/badge/arXiv-2508.18236-b31b1b.svg)](https://arxiv.org/pdf/2508.18236)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+
 
 Official implementation of **"Human-like Content Analysis for Generative AI with Language-Grounded Sparse Encoders"**
 
