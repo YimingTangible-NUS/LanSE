@@ -1,13 +1,11 @@
 # LanSE: Language-Grounded Sparse Encoders
 
 <div align="center">
-
-[![arXiv](https://img.shields.io/badge/arXiv-2508.18236-b31b1b.svg)](https://arxiv.org/pdf/2508.18236)
-[![PDF](https://img.shields.io/badge/PDF-Download-red)](./LanSE.pdf)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-**[📄 Download Full Paper (PDF)](./LanSE.pdf)**
-
+  <a href="./LanSE.pdf">
+    <img src="./LanSE.png" alt="LanSE Paper" width="600">
+  </a>
+  
+  **Click image to download full paper**
 </div>
 
 [![arXiv](https://img.shields.io/badge/arXiv-2508.18236-b31b1b.svg)](https://arxiv.org/pdf/2508.18236)
